@@ -94,9 +94,9 @@ _Cluster Nodes :_
 The following files have already been added to this fork for ease of installation.
 
 *	Download JDK 8u65 64bit RPM from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/) 
-*	Download elasticsearch-2.1.0.tar.gz from [elastic](https://www.elastic.co/downloads/elasticsearch)
-*	Download kibana-4.3.0-linux-x64.tar.gz from [elastic](https://www.elastic.co/downloads/kibana)
-*	Download logstash-2.1.0.tar.gz from [elastic](https://www.elastic.co/downloads/logstash)
+*	Download elasticsearch-2.1.0.tar.gz from [elastic] (https://download.elasticsearch.org/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.1.0/elasticsearch-2.1.0.tar.gz) (https://www.elastic.co/downloads/elasticsearch) 
+*	Download kibana-4.3.0-linux-x64.tar.gz from [elastic](https://download.elastic.co/kibana/kibana/kibana-4.3.0-linux-x64.tar.gz) (https://www.elastic.co/downloads/kibana)
+*	Download logstash-2.1.0.tar.gz from [elastic](https://download.elastic.co/logstash/logstash/logstash-2.1.0.tar.gz) (https://www.elastic.co/downloads/logstash)
 *	Place all the above files at the root of this repo.
 
 If you need to upgrade any of the above, download respective version and change the version number in `lib/upgrade-es.sh` OR  `lib/upgrade-kibana.sh` Or  `lib/upgrade-logstash.sh` accordingly and re-run provisioning.
