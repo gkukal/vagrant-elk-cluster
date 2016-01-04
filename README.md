@@ -91,7 +91,7 @@ _Cluster Nodes :_
 
 **Download Installation Files**
 
-This needs to be done just once.
+The following files have already been added to this fork for ease of installation.
 
 *	Download JDK 8u65 64bit RPM from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/) 
 *	Download elasticsearch-2.1.0.tar.gz from [elastic](https://www.elastic.co/downloads/elasticsearch)
